@@ -14,8 +14,8 @@ body {
 }
 
 .flashcards div {
-  border: 1px solid #e7e7e7;
-  background-color: #f7f7f7;
+  border: 1px solid #a7a7a7;
+  background-color: #c7c7c7;
   border-radius: 7px;
   aspect-ratio: 2 / 1;
   display: flex;
